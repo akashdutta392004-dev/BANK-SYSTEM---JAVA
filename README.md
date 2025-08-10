@@ -1,2 +1,24 @@
 # BANK-SYSTEM---JAVA
-A simple java console based bank system with deposit , withdraw and balance check functionalities .
+
+A console-based Java application to deposit, withdraw, and check balance.  
+Built to practice **Object-Oriented Programming (OOP)** concepts and Java basics.
+
+---
+
+## 📌 Features
+- Deposit money 💰
+- Withdraw money 💳 (prevents overdrafts)
+- Check balance 📊
+- Input validation (prevents invalid entries)
+
+---
+
+## 🛠️ Tech Stack
+- **Language:** Java
+- **Concepts Used:** Classes, Methods, Loops, Conditional Statements, Input Handling
+
+---
+
+## 📐 System Design
+### Flowchart
+### Class Diagram
