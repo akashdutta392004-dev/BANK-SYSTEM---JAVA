@@ -19,6 +19,6 @@ Built to practice **Object-Oriented Programming (OOP)** concepts and Java basics
 
 ---
 
-## 📐 System Design
+## 📐 System Desig
 ### Flowchart
 ### Class Diagram
